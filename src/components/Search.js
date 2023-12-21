@@ -1,11 +1,9 @@
 import React, { useState } from "react";
 
-function Search( {handleFilter} ) {
-
-  const [searchString, setSearchString] = useState("")
-
+function Search( { searchArray } ) {
+  
   function handleChange(event){
-    handleFilter(event.target.value)
+    searchArray(event.target.value)
   }
 
   return (
