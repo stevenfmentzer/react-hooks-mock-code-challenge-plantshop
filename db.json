@@ -47,6 +47,12 @@
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
       "price": "2000",
       "id": 8
+    },
+    {
+      "name": "Baby",
+      "image": "https://lilluna.com/wp-content/uploads/2022/09/easy-pancakes3-resize-10.jpg",
+      "price": "100",
+      "id": 9
     }
   ]
 }
